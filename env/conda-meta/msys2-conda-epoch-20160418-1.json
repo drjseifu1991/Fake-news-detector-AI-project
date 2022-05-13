@@ -1,0 +1,31 @@
+{
+  "build": "1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\PC\\miniconda3\\pkgs\\msys2-conda-epoch-20160418-1",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "msys2-conda-epoch-20160418-1.tar.bz2",
+  "link": {
+    "source": "C:\\Users\\PC\\miniconda3\\pkgs\\msys2-conda-epoch-20160418-1",
+    "type": 1
+  },
+  "md5": "6eaef3074f65f715ed1ca6b8a08be3aa",
+  "name": "msys2-conda-epoch",
+  "package_tarball_full_path": "C:\\Users\\PC\\miniconda3\\pkgs\\msys2-conda-epoch-20160418-1.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d6a55d779052bca9accd534398b4e147d0a3dfc8f4b6528391ee9c15843784bc",
+  "size": 2065,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/msys2-conda-epoch-20160418-1.tar.bz2",
+  "version": "20160418"
+}

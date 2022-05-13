@@ -1,0 +1,574 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "async_generator",
+    "jupyter_client >=6.1.5",
+    "nbformat >=5.0",
+    "nest-asyncio",
+    "python >=3.6",
+    "traitlets >=4.2"
+  ],
+  "extracted_package_dir": "C:\\Users\\PC\\miniconda3\\pkgs\\nbclient-0.5.3-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/nbclient-0.5.3.dist-info/INSTALLER",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/LICENSE",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/METADATA",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/RECORD",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/REQUESTED",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/WHEEL",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/direct_url.json",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/top_level.txt",
+    "Lib/site-packages/nbclient/__init__.py",
+    "Lib/site-packages/nbclient/_version.py",
+    "Lib/site-packages/nbclient/client.py",
+    "Lib/site-packages/nbclient/exceptions.py",
+    "Lib/site-packages/nbclient/jsonutil.py",
+    "Lib/site-packages/nbclient/output_widget.py",
+    "Lib/site-packages/nbclient/tests/__init__.py",
+    "Lib/site-packages/nbclient/tests/base.py",
+    "Lib/site-packages/nbclient/tests/fake_kernelmanager.py",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/Autokill-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/Hang-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/HelloWorld-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/Sleep1s-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets.nbconvert-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets2-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets_executed-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/sleep-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Autokill.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Check History in Memory.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Clear Output.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Disable Stdin.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Empty Cell.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Factorials.ipynb",
+    "Lib/site-packages/nbclient/tests/files/HelloWorld.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Inline Image.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Interrupt.ipynb",
+    "Lib/site-packages/nbclient/tests/files/JupyterWidgets.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Other Comms.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Output.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Parallel Execute A.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Parallel Execute B.ipynb",
+    "Lib/site-packages/nbclient/tests/files/SVG.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Skip Exceptions with Cell Tags.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Skip Exceptions.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Sleep1s.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Unicode.ipynb",
+    "Lib/site-packages/nbclient/tests/files/UnicodePy3.ipynb",
+    "Lib/site-packages/nbclient/tests/files/execute_ipywidgets.py",
+    "Lib/site-packages/nbclient/tests/files/ipywidgets.ipynb",
+    "Lib/site-packages/nbclient/tests/files/ipywidgets.nbconvert.ipynb",
+    "Lib/site-packages/nbclient/tests/files/ipywidgets2.ipynb",
+    "Lib/site-packages/nbclient/tests/files/ipywidgets_executed.ipynb",
+    "Lib/site-packages/nbclient/tests/files/ipywidgets_keep.ipynb",
+    "Lib/site-packages/nbclient/tests/files/python.png",
+    "Lib/site-packages/nbclient/tests/files/sleep.ipynb",
+    "Lib/site-packages/nbclient/tests/files/update-display-id.ipynb",
+    "Lib/site-packages/nbclient/tests/test_client.py",
+    "Lib/site-packages/nbclient/tests/util.py",
+    "Lib/site-packages/nbclient/util.py",
+    ".nonadmin",
+    "Lib/site-packages/nbclient/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/nbclient/__pycache__/_version.cpython-39.pyc",
+    "Lib/site-packages/nbclient/__pycache__/client.cpython-39.pyc",
+    "Lib/site-packages/nbclient/__pycache__/exceptions.cpython-39.pyc",
+    "Lib/site-packages/nbclient/__pycache__/jsonutil.cpython-39.pyc",
+    "Lib/site-packages/nbclient/__pycache__/output_widget.cpython-39.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/base.cpython-39.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/fake_kernelmanager.cpython-39.pyc",
+    "Lib/site-packages/nbclient/tests/files/__pycache__/execute_ipywidgets.cpython-39.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/test_client.cpython-39.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/util.cpython-39.pyc",
+    "Lib/site-packages/nbclient/__pycache__/util.cpython-39.pyc"
+  ],
+  "fn": "nbclient-0.5.3-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "cca44fe99f42d3895bf8a8f9f4cd3308",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\PC\\miniconda3\\pkgs\\nbclient-0.5.3-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "b92330415e6f74136f059edc992586f7",
+  "name": "nbclient",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\PC\\miniconda3\\pkgs\\nbclient-0.5.3-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/nbclient-0.5.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/nbclient-0.5.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d58229db4e1b74cf33ea1c5d962e32d5e7670ecbe3b473e5ce89929b3b5087a7",
+        "sha256_in_prefix": "d58229db4e1b74cf33ea1c5d962e32d5e7670ecbe3b473e5ce89929b3b5087a7",
+        "size_in_bytes": 2836
+      },
+      {
+        "_path": "site-packages/nbclient-0.5.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b63cc5c52e33944338999968127e64ed7c9772b0bc5afd79af674265d2ac6241",
+        "sha256_in_prefix": "b63cc5c52e33944338999968127e64ed7c9772b0bc5afd79af674265d2ac6241",
+        "size_in_bytes": 6047
+      },
+      {
+        "_path": "site-packages/nbclient-0.5.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c51dda86d9612f42a3597d31062c6951567127175fc9cb738324ea3c01341103",
+        "sha256_in_prefix": "c51dda86d9612f42a3597d31062c6951567127175fc9cb738324ea3c01341103",
+        "size_in_bytes": 6265
+      },
+      {
+        "_path": "site-packages/nbclient-0.5.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/nbclient-0.5.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/nbclient-0.5.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d78278feba415ea0cbd22070b22fa87f5c3e8e3302555e0aebc60ccc676e96c7",
+        "sha256_in_prefix": "d78278feba415ea0cbd22070b22fa87f5c3e8e3302555e0aebc60ccc676e96c7",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "site-packages/nbclient-0.5.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e7cae032da85af693b9cf564cf78c291a5893ddd626263f283fcda1abece0f4d",
+        "sha256_in_prefix": "e7cae032da85af693b9cf564cf78c291a5893ddd626263f283fcda1abece0f4d",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/nbclient/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e92e38b0ad1ded48fa0f1031df6466b38cc55da21d22b4e680d6eee2fa2215fc",
+        "sha256_in_prefix": "e92e38b0ad1ded48fa0f1031df6466b38cc55da21d22b4e680d6eee2fa2215fc",
+        "size_in_bytes": 480
+      },
+      {
+        "_path": "site-packages/nbclient/_version.py",
+        "path_type": "hardlink",
+        "sha256": "3ce7f08aa044112308fc3d4b16c2f0e61a6c00bfbe2a0849de747ab5db437dc1",
+        "sha256_in_prefix": "3ce7f08aa044112308fc3d4b16c2f0e61a6c00bfbe2a0849de747ab5db437dc1",
+        "size_in_bytes": 18
+      },
+      {
+        "_path": "site-packages/nbclient/client.py",
+        "path_type": "hardlink",
+        "sha256": "8892cb9ac91981ef4aaae45ca0aaeb64f5d02d7cf592c798f498345a6154293f",
+        "sha256_in_prefix": "8892cb9ac91981ef4aaae45ca0aaeb64f5d02d7cf592c798f498345a6154293f",
+        "size_in_bytes": 40889
+      },
+      {
+        "_path": "site-packages/nbclient/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "0e375acfcea20b541eb5e54d472f3a6d7e4895adc7bdc9c6f3a71d9d69d02ad2",
+        "sha256_in_prefix": "0e375acfcea20b541eb5e54d472f3a6d7e4895adc7bdc9c6f3a71d9d69d02ad2",
+        "size_in_bytes": 3305
+      },
+      {
+        "_path": "site-packages/nbclient/jsonutil.py",
+        "path_type": "hardlink",
+        "sha256": "0873d6d625c552cfb7fbaa2c095dce42bdc674bdcea95fa5de0abd62ad01a695",
+        "sha256_in_prefix": "0873d6d625c552cfb7fbaa2c095dce42bdc674bdcea95fa5de0abd62ad01a695",
+        "size_in_bytes": 6599
+      },
+      {
+        "_path": "site-packages/nbclient/output_widget.py",
+        "path_type": "hardlink",
+        "sha256": "1f6a4cae215c0c12dca972471232c55f0cfc8ab473c8dbfcb5f60fbfb06b9020",
+        "sha256_in_prefix": "1f6a4cae215c0c12dca972471232c55f0cfc8ab473c8dbfcb5f60fbfb06b9020",
+        "size_in_bytes": 4199
+      },
+      {
+        "_path": "site-packages/nbclient/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/nbclient/tests/base.py",
+        "path_type": "hardlink",
+        "sha256": "068a86d9eb77fd7d93cf3793b0aa0cfc433fd5d165eaa02b642713ea4948578d",
+        "sha256_in_prefix": "068a86d9eb77fd7d93cf3793b0aa0cfc433fd5d165eaa02b642713ea4948578d",
+        "size_in_bytes": 1951
+      },
+      {
+        "_path": "site-packages/nbclient/tests/fake_kernelmanager.py",
+        "path_type": "hardlink",
+        "sha256": "a4591845f9fe927c6b551595030085f924c04e9184fbb75e3e0482f5e41ec0b7",
+        "sha256_in_prefix": "a4591845f9fe927c6b551595030085f924c04e9184fbb75e3e0482f5e41ec0b7",
+        "size_in_bytes": 883
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/.ipynb_checkpoints/Autokill-checkpoint.ipynb",
+        "path_type": "hardlink",
+        "sha256": "2e268787e52fe6fd1a686d40b776bc599aeb3482515fd2b4f075f2fefbdc661a",
+        "sha256_in_prefix": "2e268787e52fe6fd1a686d40b776bc599aeb3482515fd2b4f075f2fefbdc661a",
+        "size_in_bytes": 663
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/.ipynb_checkpoints/Hang-checkpoint.ipynb",
+        "path_type": "hardlink",
+        "sha256": "d2f8068fe81a139d8fd06bc8fcdccd23f915f961faa7d3c6d35d1ad59e943c85",
+        "sha256_in_prefix": "d2f8068fe81a139d8fd06bc8fcdccd23f915f961faa7d3c6d35d1ad59e943c85",
+        "size_in_bytes": 1993
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/.ipynb_checkpoints/HelloWorld-checkpoint.ipynb",
+        "path_type": "hardlink",
+        "sha256": "fbb6f8998ba389f554d27e813788e3cbfc941ffc23f13cd38f8b75b100f76931",
+        "sha256_in_prefix": "fbb6f8998ba389f554d27e813788e3cbfc941ffc23f13cd38f8b75b100f76931",
+        "size_in_bytes": 698
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/.ipynb_checkpoints/Sleep1s-checkpoint.ipynb",
+        "path_type": "hardlink",
+        "sha256": "e5fdbc1604b4c230f066d78cb8d099c35d7947e19207d52e4c89520110da5ead",
+        "sha256_in_prefix": "e5fdbc1604b4c230f066d78cb8d099c35d7947e19207d52e4c89520110da5ead",
+        "size_in_bytes": 1197
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets-checkpoint.ipynb",
+        "path_type": "hardlink",
+        "sha256": "f2dbf85ae27bd27da83d71b20702ed0529d0809828faab94e5d04ea01ee71ce4",
+        "sha256_in_prefix": "f2dbf85ae27bd27da83d71b20702ed0529d0809828faab94e5d04ea01ee71ce4",
+        "size_in_bytes": 3283
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets.nbconvert-checkpoint.ipynb",
+        "path_type": "hardlink",
+        "sha256": "f5e0f52cc17da8bbc632db7c980c84df1495635029d95808ec32c8ffc008ea4e",
+        "sha256_in_prefix": "f5e0f52cc17da8bbc632db7c980c84df1495635029d95808ec32c8ffc008ea4e",
+        "size_in_bytes": 9143
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets2-checkpoint.ipynb",
+        "path_type": "hardlink",
+        "sha256": "c22a0ed9298e8d5769a6a8caefb330835861f44158a67861ee7cceea193e6d61",
+        "sha256_in_prefix": "c22a0ed9298e8d5769a6a8caefb330835861f44158a67861ee7cceea193e6d61",
+        "size_in_bytes": 12457
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets_executed-checkpoint.ipynb",
+        "path_type": "hardlink",
+        "sha256": "090233b660b13cb0e791bafa29d44ebad13974b3efc0c427ec40375ff28ee1a9",
+        "sha256_in_prefix": "090233b660b13cb0e791bafa29d44ebad13974b3efc0c427ec40375ff28ee1a9",
+        "size_in_bytes": 6771
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/.ipynb_checkpoints/sleep-checkpoint.ipynb",
+        "path_type": "hardlink",
+        "sha256": "cc79a531f5833b2b31d967d265cd394025f4cbee656b291c69ba09840b3b0ccb",
+        "sha256_in_prefix": "cc79a531f5833b2b31d967d265cd394025f4cbee656b291c69ba09840b3b0ccb",
+        "size_in_bytes": 1123
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Autokill.ipynb",
+        "path_type": "hardlink",
+        "sha256": "2e268787e52fe6fd1a686d40b776bc599aeb3482515fd2b4f075f2fefbdc661a",
+        "sha256_in_prefix": "2e268787e52fe6fd1a686d40b776bc599aeb3482515fd2b4f075f2fefbdc661a",
+        "size_in_bytes": 663
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Check History in Memory.ipynb",
+        "path_type": "hardlink",
+        "sha256": "f814231689e18cd82e8428b886fea7938c83edc17c9fe3c6c17598d775f72deb",
+        "sha256_in_prefix": "f814231689e18cd82e8428b886fea7938c83edc17c9fe3c6c17598d775f72deb",
+        "size_in_bytes": 450
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Clear Output.ipynb",
+        "path_type": "hardlink",
+        "sha256": "1fc63951b1bebed4260c097da59d7816c4cbcbb6a1bccd249d7d66dfa0becc84",
+        "sha256_in_prefix": "1fc63951b1bebed4260c097da59d7816c4cbcbb6a1bccd249d7d66dfa0becc84",
+        "size_in_bytes": 3730
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Disable Stdin.ipynb",
+        "path_type": "hardlink",
+        "sha256": "de62ba2457c4e8b77c2cac81c0d2e91ddab03d0c60cc3ba6857587a0759212c2",
+        "sha256_in_prefix": "de62ba2457c4e8b77c2cac81c0d2e91ddab03d0c60cc3ba6857587a0759212c2",
+        "size_in_bytes": 339
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Empty Cell.ipynb",
+        "path_type": "hardlink",
+        "sha256": "e6ed9a640e376a408b26cefb0928137ac860b991a5f20ea78477c319686163ac",
+        "sha256_in_prefix": "e6ed9a640e376a408b26cefb0928137ac860b991a5f20ea78477c319686163ac",
+        "size_in_bytes": 1291
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Factorials.ipynb",
+        "path_type": "hardlink",
+        "sha256": "68569c1f19829a96fe337880dfe8df0c28c80679d7ae02c60a19a900b295eb64",
+        "sha256_in_prefix": "68569c1f19829a96fe337880dfe8df0c28c80679d7ae02c60a19a900b295eb64",
+        "size_in_bytes": 678
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/HelloWorld.ipynb",
+        "path_type": "hardlink",
+        "sha256": "81473ce392d49eda578113adeaef951a68089a2f9a5ceeac2beb5199e310fe37",
+        "sha256_in_prefix": "81473ce392d49eda578113adeaef951a68089a2f9a5ceeac2beb5199e310fe37",
+        "size_in_bytes": 356
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Inline Image.ipynb",
+        "path_type": "hardlink",
+        "sha256": "9dd06cb0d8e7c37ad7d45edd7d38ee8a9c9b7623109ece3207c4ea418af2a8c1",
+        "sha256_in_prefix": "9dd06cb0d8e7c37ad7d45edd7d38ee8a9c9b7623109ece3207c4ea418af2a8c1",
+        "size_in_bytes": 14333
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Interrupt.ipynb",
+        "path_type": "hardlink",
+        "sha256": "5143d8a9ca31baf7f60176f5de32bee60522bd0016dfa83d5def0f9c9f2bc7b0",
+        "sha256_in_prefix": "5143d8a9ca31baf7f60176f5de32bee60522bd0016dfa83d5def0f9c9f2bc7b0",
+        "size_in_bytes": 1184
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/JupyterWidgets.ipynb",
+        "path_type": "hardlink",
+        "sha256": "6439e502948b076e08adb6c56f1e490d0afbdf2b4a831ec16b0c377ff675fb7d",
+        "sha256_in_prefix": "6439e502948b076e08adb6c56f1e490d0afbdf2b4a831ec16b0c377ff675fb7d",
+        "size_in_bytes": 2130
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Other Comms.ipynb",
+        "path_type": "hardlink",
+        "sha256": "fc96cf2eab319808a46906ac341232e51d0a74119872c7bf49784a9cc9445538",
+        "sha256_in_prefix": "fc96cf2eab319808a46906ac341232e51d0a74119872c7bf49784a9cc9445538",
+        "size_in_bytes": 1319
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Output.ipynb",
+        "path_type": "hardlink",
+        "sha256": "c45bf6e59796c5aaddba07682c205765bd5933788ecd8e01d91a320948356c6f",
+        "sha256_in_prefix": "c45bf6e59796c5aaddba07682c205765bd5933788ecd8e01d91a320948356c6f",
+        "size_in_bytes": 20337
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Parallel Execute A.ipynb",
+        "path_type": "hardlink",
+        "sha256": "f0a72e7ac54e1abe11eca87ce806ac02f5dac46b2d246acc6e56ffc22effe37b",
+        "sha256_in_prefix": "f0a72e7ac54e1abe11eca87ce806ac02f5dac46b2d246acc6e56ffc22effe37b",
+        "size_in_bytes": 2485
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Parallel Execute B.ipynb",
+        "path_type": "hardlink",
+        "sha256": "14c49f9ccf48857a6cf297eeb1285fe3b7cdb1db10140d1ec4d29cf00ad0bcbb",
+        "sha256_in_prefix": "14c49f9ccf48857a6cf297eeb1285fe3b7cdb1db10140d1ec4d29cf00ad0bcbb",
+        "size_in_bytes": 2485
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/SVG.ipynb",
+        "path_type": "hardlink",
+        "sha256": "1526dccc8e96f64f2d060eacae73fa86696995b89b995060445e1201b296001a",
+        "sha256_in_prefix": "1526dccc8e96f64f2d060eacae73fa86696995b89b995060445e1201b296001a",
+        "size_in_bytes": 977
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Skip Exceptions with Cell Tags.ipynb",
+        "path_type": "hardlink",
+        "sha256": "ae6db4a0b03dd831823ddaf91f92aeb2e8c7f56b1de02b352589374176440bae",
+        "sha256_in_prefix": "ae6db4a0b03dd831823ddaf91f92aeb2e8c7f56b1de02b352589374176440bae",
+        "size_in_bytes": 1351
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Skip Exceptions.ipynb",
+        "path_type": "hardlink",
+        "sha256": "d8978b634436d436e123fa8e8701d14b986a450440122b4d04052989843fca1d",
+        "sha256_in_prefix": "d8978b634436d436e123fa8e8701d14b986a450440122b4d04052989843fca1d",
+        "size_in_bytes": 1357
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Sleep1s.ipynb",
+        "path_type": "hardlink",
+        "sha256": "e5fdbc1604b4c230f066d78cb8d099c35d7947e19207d52e4c89520110da5ead",
+        "sha256_in_prefix": "e5fdbc1604b4c230f066d78cb8d099c35d7947e19207d52e4c89520110da5ead",
+        "size_in_bytes": 1197
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/Unicode.ipynb",
+        "path_type": "hardlink",
+        "sha256": "52b72939ea7b9ed3a59041e545804cdcc9d16136780bef0d829808f1eafe3c38",
+        "sha256_in_prefix": "52b72939ea7b9ed3a59041e545804cdcc9d16136780bef0d829808f1eafe3c38",
+        "size_in_bytes": 344
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/UnicodePy3.ipynb",
+        "path_type": "hardlink",
+        "sha256": "c3d3eab93cc32a6b531490977e5b30794fc105239a2ca3f7ec5d9910ed8a5840",
+        "sha256_in_prefix": "c3d3eab93cc32a6b531490977e5b30794fc105239a2ca3f7ec5d9910ed8a5840",
+        "size_in_bytes": 446
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/execute_ipywidgets.py",
+        "path_type": "hardlink",
+        "sha256": "1426447ba0ed0518599c6e5dca82c555173b2698b8515d9f21ebd2ac752509f3",
+        "sha256_in_prefix": "1426447ba0ed0518599c6e5dca82c555173b2698b8515d9f21ebd2ac752509f3",
+        "size_in_bytes": 214
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/ipywidgets.ipynb",
+        "path_type": "hardlink",
+        "sha256": "0f1caae02862618dbbb04c5ee7ad77bce96ebf59adc6d7f7b143c9eb7597de42",
+        "sha256_in_prefix": "0f1caae02862618dbbb04c5ee7ad77bce96ebf59adc6d7f7b143c9eb7597de42",
+        "size_in_bytes": 658
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/ipywidgets.nbconvert.ipynb",
+        "path_type": "hardlink",
+        "sha256": "f5e0f52cc17da8bbc632db7c980c84df1495635029d95808ec32c8ffc008ea4e",
+        "sha256_in_prefix": "f5e0f52cc17da8bbc632db7c980c84df1495635029d95808ec32c8ffc008ea4e",
+        "size_in_bytes": 9143
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/ipywidgets2.ipynb",
+        "path_type": "hardlink",
+        "sha256": "c22a0ed9298e8d5769a6a8caefb330835861f44158a67861ee7cceea193e6d61",
+        "sha256_in_prefix": "c22a0ed9298e8d5769a6a8caefb330835861f44158a67861ee7cceea193e6d61",
+        "size_in_bytes": 12457
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/ipywidgets_executed.ipynb",
+        "path_type": "hardlink",
+        "sha256": "0db42563c2bea21a7616fc7e237c7240d4d95ecc5f319bba8cea8c2890dbafec",
+        "sha256_in_prefix": "0db42563c2bea21a7616fc7e237c7240d4d95ecc5f319bba8cea8c2890dbafec",
+        "size_in_bytes": 6771
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/ipywidgets_keep.ipynb",
+        "path_type": "hardlink",
+        "sha256": "0f1caae02862618dbbb04c5ee7ad77bce96ebf59adc6d7f7b143c9eb7597de42",
+        "sha256_in_prefix": "0f1caae02862618dbbb04c5ee7ad77bce96ebf59adc6d7f7b143c9eb7597de42",
+        "size_in_bytes": 658
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/python.png",
+        "path_type": "hardlink",
+        "sha256": "4ed13028bb76b19d2e2ba43972c3b64405f0e58d0034ed17239df80e43abff46",
+        "sha256_in_prefix": "4ed13028bb76b19d2e2ba43972c3b64405f0e58d0034ed17239df80e43abff46",
+        "size_in_bytes": 8758
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/sleep.ipynb",
+        "path_type": "hardlink",
+        "sha256": "cc79a531f5833b2b31d967d265cd394025f4cbee656b291c69ba09840b3b0ccb",
+        "sha256_in_prefix": "cc79a531f5833b2b31d967d265cd394025f4cbee656b291c69ba09840b3b0ccb",
+        "size_in_bytes": 1123
+      },
+      {
+        "_path": "site-packages/nbclient/tests/files/update-display-id.ipynb",
+        "path_type": "hardlink",
+        "sha256": "ba4b894fc8f652fed61d77a841421b7bed7e858b324b5b8702c52023784cb268",
+        "sha256_in_prefix": "ba4b894fc8f652fed61d77a841421b7bed7e858b324b5b8702c52023784cb268",
+        "size_in_bytes": 3306
+      },
+      {
+        "_path": "site-packages/nbclient/tests/test_client.py",
+        "path_type": "hardlink",
+        "sha256": "fb05a514d7130203946c6d7f21ab99f5164bfab87007f786b30529ec56252f86",
+        "sha256_in_prefix": "fb05a514d7130203946c6d7f21ab99f5164bfab87007f786b30529ec56252f86",
+        "size_in_bytes": 54837
+      },
+      {
+        "_path": "site-packages/nbclient/tests/util.py",
+        "path_type": "hardlink",
+        "sha256": "63e2825735bda6fe0a1b2c0ffbb3a43a9eaeaa1dfee8db634e7c51e5bee9fa94",
+        "sha256_in_prefix": "63e2825735bda6fe0a1b2c0ffbb3a43a9eaeaa1dfee8db634e7c51e5bee9fa94",
+        "size_in_bytes": 1764
+      },
+      {
+        "_path": "site-packages/nbclient/util.py",
+        "path_type": "hardlink",
+        "sha256": "6afd2734ccae7f397eabb71746c9a2b6d39b2151d610141e2008bfa450961d21",
+        "sha256_in_prefix": "6afd2734ccae7f397eabb71746c9a2b6d39b2151d610141e2008bfa450961d21",
+        "size_in_bytes": 3072
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/_version.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/client.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/exceptions.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/jsonutil.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/output_widget.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/base.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/fake_kernelmanager.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/__pycache__/execute_ipywidgets.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/test_client.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/util.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/util.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f1a9eb25139d6910ed4eda4210c7d4757d6929a13ab082a8540e20bd62071caf",
+  "size": 63890,
+  "subdir": "noarch",
+  "timestamp": 1614364868919,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/nbclient-0.5.3-pyhd3eb1b0_0.conda",
+  "version": "0.5.3"
+}

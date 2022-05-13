@@ -1,0 +1,94 @@
+{
+  "build": "py39haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\Users\\PC\\miniconda3\\pkgs\\cycler-0.10.0-py39haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/cycler.cpython-39.pyc",
+    "Lib/site-packages/cycler-0.10.0-py3.9.egg-info/PKG-INFO",
+    "Lib/site-packages/cycler-0.10.0-py3.9.egg-info/SOURCES.txt",
+    "Lib/site-packages/cycler-0.10.0-py3.9.egg-info/dependency_links.txt",
+    "Lib/site-packages/cycler-0.10.0-py3.9.egg-info/requires.txt",
+    "Lib/site-packages/cycler-0.10.0-py3.9.egg-info/top_level.txt",
+    "Lib/site-packages/cycler.py",
+    ".nonadmin"
+  ],
+  "fn": "cycler-0.10.0-py39haa95532_0.conda",
+  "legacy_bz2_md5": "8b5541ed362cbeec53b4c41f728074d8",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\Users\\PC\\miniconda3\\pkgs\\cycler-0.10.0-py39haa95532_0",
+    "type": 1
+  },
+  "md5": "8990870c23c051d259f971a3514dcfd4",
+  "name": "cycler",
+  "package_tarball_full_path": "C:\\Users\\PC\\miniconda3\\pkgs\\cycler-0.10.0-py39haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/cycler.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7a8193fb7f1b41998003a7fae060b787099ca31f1937ee6dfcdcfe2421a09ef9",
+        "sha256_in_prefix": "7a8193fb7f1b41998003a7fae060b787099ca31f1937ee6dfcdcfe2421a09ef9",
+        "size_in_bytes": 16034
+      },
+      {
+        "_path": "Lib/site-packages/cycler-0.10.0-py3.9.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "514bab531f601a799554bce73a1de0467ad885b8086673826e027c01a0c670e8",
+        "sha256_in_prefix": "514bab531f601a799554bce73a1de0467ad885b8086673826e027c01a0c670e8",
+        "size_in_bytes": 734
+      },
+      {
+        "_path": "Lib/site-packages/cycler-0.10.0-py3.9.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "216f686325475774af8fa0d444763eaf9b802ace963f037b5268b21b57d3d9f4",
+        "sha256_in_prefix": "216f686325475774af8fa0d444763eaf9b802ace963f037b5268b21b57d3d9f4",
+        "size_in_bytes": 380
+      },
+      {
+        "_path": "Lib/site-packages/cycler-0.10.0-py3.9.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/cycler-0.10.0-py3.9.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "sha256_in_prefix": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/cycler-0.10.0-py3.9.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "0fc05554374001e94b6f614e133ee50e973af802f6d7294a3eb321b46eb2cf21",
+        "sha256_in_prefix": "0fc05554374001e94b6f614e133ee50e973af802f6d7294a3eb321b46eb2cf21",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "Lib/site-packages/cycler.py",
+        "path_type": "hardlink",
+        "sha256": "79ddc6dfdba7bd5101ac16550f09c4d0516ba1136c38b91b27f4f0213e428c25",
+        "sha256_in_prefix": "79ddc6dfdba7bd5101ac16550f09c4d0516ba1136c38b91b27f4f0213e428c25",
+        "size_in_bytes": 15959
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b9811d0d3d3d419c15bdf5dde7b92e12735f48a2bfe6f39661e5d8132c3eb2b5",
+  "size": 16567,
+  "subdir": "win-64",
+  "timestamp": 1607025630974,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/cycler-0.10.0-py39haa95532_0.conda",
+  "version": "0.10.0"
+}
