@@ -1,2 +1,8 @@
 # Fake-news-detector-AI-project
-This repository was created for a project is a Fake news detector machine learning project I was working on.
+
+A web application for detecting fake news from real ones utilizing Natural Language Processing.
+
+This is the Flask verison, please see the other branch for the Django version.
+
+The app is deployed on Heroku, with link.
+Feel free to use the API I published on RapidAPI.
