@@ -4,15 +4,17 @@ import pickle
 from nltk.corpus import stopwords
 import re
 from nltk.stem.porter import PorterStemmer
+
 app = Flask(__name__)
 ps = PorterStemmer()
-# Load model and vectorizer
-model = pickle.load(open('fake_news_model2.pkl', 'rb'))
-tfidfvect = pickle.load(open('tfidfvec.pkl', 'rb'))
-# Build functionalities
+
+model = pickle.load(open('model2.pkl', 'rb'))
+tfidfvect = pickle.load(open('tfidfvect2.pkl', 'rb'))
+
 @app.route('/', methods=['GET'])
 def home():
     return render_template('index.html')
+
 def predict(text):
     review = re.sub('[^a-zA-Z]', ' ', text)
     review = review.lower()
@@ -22,15 +24,19 @@ def predict(text):
     review_vect = tfidfvect.transform([review]).toarray()
     prediction = 'FAKE' if model.predict(review_vect) == 0 else 'REAL'
     return prediction
+
 @app.route('/', methods=['POST'])
 def webapp():
     text = request.form['text']
     prediction = predict(text)
     return render_template('index.html', text=text, result=prediction)
+
+
 @app.route('/predict/', methods=['GET','POST'])
 def api():
     text = request.args.get("text")
     prediction = predict(text)
     return jsonify(prediction=prediction)
+
 if __name__ == "__main__":
     app.run()

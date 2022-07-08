@@ -1,3 +1,0 @@
-I couldn't add the tfidfvec.plk file to the repo because it was to large so i have added a link to it in my google drive:
-
-https://drive.google.com/file/d/1IuyFUldSdb0dZX0wRYpFoQKwHZYE_uU1/view?usp=sharing
